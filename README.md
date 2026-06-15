@@ -1,3 +1,13 @@
+## Deliverables
+
+- Technical EDA Analysis
+- Business Recommendations
+- Executive Presentation Deck
+
+### Executive Deck
+
+[View Executive Deck](07_Executive_Deck/walmart_executive_deck.pdf)
+
 # Walmart Retail Performance Audit & Strategic Segmentation
 
 ## Business Problem
